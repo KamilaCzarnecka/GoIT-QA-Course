@@ -1,0 +1,22 @@
+<dane-o-ludziach>
+	<osoba-1>
+		<imię>Mateusz</imię>
+		<nazwisko>Kowalski</nazwisko>
+		<id>001</id>
+		<wiek>45</wiek>
+		<miejsce-zamieszkania>Wrocław</miejsce-zamieszkania>
+		<adres>ul. Dolnośląska 90/2</adres>
+		<numer-telefonu>900800700</numer-telefonu>
+		<adres-mailowy>mateuszkowalski@gmail.com</adres-mailowy>
+	</osoba-1>
+	<osoba-2>
+		<imię>Anna</imię>
+		<nazwisko>Nowak</nazwisko>
+		<id>002</id>
+		<wiek>42</wiek>
+		<miejsce-zamieszkania>Wrocław</miejsce-zamieszkania>
+		<adres>ul. Hallera 15/17</adres>
+		<numer-telefonu>900555666</numer-telefonu>
+		<adres-mailowy>annanowak@gmail.com</adres-mailowy>
+	</osoba-2>
+</dane-o-ludziach>

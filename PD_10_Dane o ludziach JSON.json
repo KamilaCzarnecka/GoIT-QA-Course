@@ -1,0 +1,23 @@
+{
+  "dane o ludziach": [
+    {
+      "imię": "Mateusz",
+      "nazwisko": "Kowalski",
+      "id": "001",
+      "wiek": 45,
+      "miejsce zamieszkania": "Wrocław",
+      "adres": "ul. Dolnośląska 90/2",
+      "numer telefonu": 900800700,
+      "adres mailowy": "mateuszkowalski@gmail.com"
+    },
+    { "imię": "Anna",
+      "nazwisko": "Nowak",
+      "id": "002",
+      "wiek": 42,
+      "miejsce zamieszkania": "Wrocław",
+      "adres": "ul. Hallera 15/17",
+      "numer telefonu": 900555666,
+      "adres mailowy": "annanowak@gmail.com"
+    }
+  ]
+}
